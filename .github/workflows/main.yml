@@ -1,4 +1,4 @@
-name: Build My Minecraft Spigot Plugin
+name: Build
 
 on:
   push:
